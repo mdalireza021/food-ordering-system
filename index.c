@@ -56,7 +56,7 @@ int main()
 
 {
 
-    system("title ..................Developed by Reza Rahman.......................");
+    system("title ...Developed by Reza Rahman...");
 
     int n,item,quantity,order=0,c=0;
     int t_order[50],order_quantity[100];
@@ -480,7 +480,7 @@ int window()
 {
     system("color a");
     gotoxy(26,2);
-    printf("\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2 RESTURANT BILLING SYSTEM \xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
+    printf("\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2 FOOD ORDERING SYSTEM \xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
     gotoxy(14,3);
     printf("________________________________________________________________________________");
 }
